@@ -1,0 +1,9 @@
+{
+  "debug": true,
+  "server": {
+    "port": "3012"
+  },
+  "database": {
+    "host": ""
+  }
+}
